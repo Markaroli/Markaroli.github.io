@@ -285,7 +285,7 @@ hr {
 .staff-team > div {
 	padding: 10px;
 	margin: 5px;
-	background-color: rgba(0,0,0,0.5);
+	background-color: #23272b;
 	color: white;
 	text-align: center;
 	transition: all ease 0.3s;
@@ -304,7 +304,7 @@ hr {
 }
 
 .staff-team img {
-	width: 50px;
+	width: 170px;
 	margin-top: 20px;
 }
 
@@ -313,14 +313,18 @@ hr {
 .mc {width: 98%; background: #4286f4;}
 
 .owner,
-.manager,
-.admin {
+.mod,
+.developer,
+.chadmin {
 	padding: 12px;
+	color: #111;
+	font-weight: bold;
 }
 
-.owner {background-color: rgba(244, 65, 65, .5);}
-.manager {background-color: rgba(66, 134, 244, .5);}
-.admin {background-color: rgba(59, 211, 42, .5);}
+.owner {background-color: #00bebe;}
+.developer {background-color: #3ffe3f;}
+.chadmin {background-color:  #be0000;}
+.mod { background-color: #be00be;}
 
 /* Announcement */
 
@@ -380,7 +384,7 @@ footer {
 }
 
 footer img {
-	width: 170px;
+	width: 55px;
 }
 
 footer a {
@@ -457,9 +461,6 @@ footer a {
 	}
 	h1 {
 		font-size: 4.5em;
-	}
-	.staff-team img {
-		width: 170px;
 	}
 	.staff-team > div {
 		padding: 13px;
