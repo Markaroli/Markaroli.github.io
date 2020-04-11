@@ -428,7 +428,9 @@ footer a {
 	}
 	.guidesindex {
 		padding-top: 200px;
-		height: 150vh;
+		height: max-content;
+		display: flex;
+
 	}
 	.gimg {
 		width: 35%;
@@ -486,6 +488,7 @@ footer a {
 
 	footer {
 		justify-content: space-between;
+		margin-top: 50px;
 	}
 	
 	.vote {
@@ -493,18 +496,23 @@ footer a {
 		margin-bottom: 50px;
 	}
 	.guides {
-		float: right;
-		margin-right: 180px;
+		/*float: right;*/
+		text-align: left;
+		margin-right: 150px;
+		flex: 1;
 	}
 	.main {
 		margin-top: 100px;
 	}
 	.links {
 		border: 1px solid black;
-		margin-left: 150px;
+		margin-left: 100px;
+		margin-right: 100px;
+		margin-top: 50px;
 		border-radius: 3px;
-		width: 200px;
-		float: left;
+		height: 800px;
+		flex: 0 0 200px;
+		/*float: left;*/
 		text-align: left;
 	}
 	.links ul {
