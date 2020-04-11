@@ -480,8 +480,7 @@ footer a {
 	}
 
 	footer {
-		position: absolute;
-    bottom: 0;
+		justify-content: space-between;
 	}
 	
 	.vote {
