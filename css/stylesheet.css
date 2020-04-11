@@ -43,6 +43,7 @@ h3 {
 
 .btn:hover {
 	background: #2b6ed9;
+	cursor: pointer;
 }
 
 /* Header */
@@ -489,6 +490,7 @@ footer a {
 	
 	.vote {
 		text-align: center;
+		margin-bottom: 50px;
 	}
 	.guides {
 		float: right;
