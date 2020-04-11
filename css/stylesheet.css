@@ -495,7 +495,7 @@ footer a {
 		}
 		.btn-one:hover {
 			background-color: transparent;
-		    cursor: pointer;
+		    cursor: pointer; 
 		}
 		.btn-one span {
 			transition: all 0.3s;
