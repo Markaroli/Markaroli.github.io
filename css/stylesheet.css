@@ -540,6 +540,10 @@ footer a {
 		text-align: left;
 	}
 	
+	.content a {
+		padding-top: 100px;
+	}
+	
 	.content img {
 		width: 720px;
 		height: auto;
