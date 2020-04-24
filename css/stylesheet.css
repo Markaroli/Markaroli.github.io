@@ -170,13 +170,14 @@ h3 {
 
 
 .info {
-	font-size: 1.3em;
+	font-size: 1.2em;
 }
 
 .info span {
 	color: #4286f4;
 	font-weight: bold;
 }
+
 
 .ip {
 	cursor: pointer;
@@ -426,12 +427,7 @@ footer a {
 		padding-top: 100px;
 		height: 100vh;
 	}
-	.guides {
-		padding-top: 100px;
-		height: max-content;
-		display: flex;
-
-	}
+	
 	.gimg {
 		width: 35%;
 	}
@@ -495,27 +491,31 @@ footer a {
 		text-align: center;
 		margin-bottom: 50px;
 	}
-	.content {
-		text-align: left;
-		margin-right: 150px;
-		flex: 1;
-	}
-	.content h2 {
-		text-align: left;
-	}
+	
 	.main {
 		margin-top: 100px;
 	}
+	
+
+	/*GUIDES PAGES*/
+	.guides {
+		padding-top: 100px;
+		height: max-content;
+		display: flex;
+
+	}
+	
 	.links {
 		border: 1px solid black;
 		margin-left: 100px;
 		margin-right: 100px;
 		margin-top: 60px;
 		border-radius: 3px;
-		height: 1800px;
+		height: 1900px;
 		flex: 0 0 200px;
 		text-align: left;
 	}
+	
 	.links ul {
 		list-style: none;
 
@@ -530,5 +530,49 @@ footer a {
 	.links h3 {
 		text-align: center;
 	}
+	
+	.content {
+		text-align: left;
+		margin-right: 150px;
+		flex: 1;
+	}
+	.content h2 {
+		text-align: left;
+	}
+	
+	.content img {
+		width: 720px;
+		height: auto;
+		display: block;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	
+	/*BEGIN EACH GUIDE PAGE'S NAV*/
+	.guidesindexnav {
+		border: 1px solid black;
+		margin-left: 100px;
+		margin-right: 100px;
+		margin-top: 60px;
+		border-radius: 3px;
+		height: 200px;
+		flex: 0 0 200px;
+		text-align: left;
+	}
+	.guidesindexnav ul {
+		list-style: none;
+
+	}
+	.guidesindexnav li {
+		margin-bottom: 10px;
+	}
+	.guidesindexnav li a {
+		color: blue;
+		text-decoration: underline;
+	}
+	.guidesindexnav h3 {
+		text-align: center;
+	}
+	
 		
 }
