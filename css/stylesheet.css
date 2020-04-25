@@ -533,7 +533,7 @@ footer a {
 	
 	.content {
 		text-align: left;
-		margin-right: 150px;
+		margin-right: 100px;
 		flex: 1;
 	}
 	.content h2 {
@@ -555,7 +555,6 @@ footer a {
 	/*BEGIN EACH GUIDE PAGE'S NAV*/
 	.guidesindexnav {
 		border: 1px solid black;
-		margin-left: 100px;
 		margin-right: 100px;
 		margin-top: 60px;
 		border-radius: 3px;
@@ -577,6 +576,31 @@ footer a {
 	.guidesindexnav h3 {
 		text-align: center;
 	}
+	
+	.rulesnav {
+		border: 1px solid black;
+		margin-right: 100px;
+		margin-top: 60px;
+		border-radius: 3px;
+		height: 400px;
+		flex: 0 0 200px;
+		text-align: left;
+	}
+	.rulesnav ul {
+		list-style: none;
+
+	}
+	.rulesnav li {
+		margin-bottom: 10px;
+	}
+	.rulesnav li a {
+		color: blue;
+		text-decoration: underline;
+	}
+	.rulesnav h3 {
+		text-align: center;
+	}
+	
 	
 		
 }
