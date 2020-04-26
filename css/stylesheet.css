@@ -605,6 +605,28 @@ footer a {
 		text-align: center;
 	}
 	
-	
+	.serverinfonav {
+		border: 1px solid black;
+		margin-right: 100px;
+		margin-top: 60px;
+		border-radius: 3px;
+		height: 300px;
+		flex: 0 0 200px;
+		text-align: left;
+	}
+	.serverinfonav ul {
+		list-style: none;
+
+	}
+	.serverinfonav li {
+		margin-bottom: 10px;
+	}
+	.serverinfonav li a {
+		color: blue;
+		text-decoration: underline;
+	}
+	.serverinfonav h3 {
+		text-align: center;
+	}
 		
 }
