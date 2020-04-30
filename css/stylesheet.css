@@ -628,5 +628,29 @@ footer a {
 	.serverinfonav h3 {
 		text-align: center;
 	}
+	
+	.resourcesnav {
+		border: 1px solid black;
+		margin-right: 100px;
+		margin-top: 60px;
+		border-radius: 3px;
+		height: 200px;
+		flex: 0 0 200px;
+		text-align: left;
+	}
+	.resourcesnav ul {
+		list-style: none;
+
+	}
+	.resourcesnav li {
+		margin-bottom: 10px;
+	}
+	.resourcesnav li a {
+		color: blue;
+		text-decoration: underline;
+	}
+	.resourcesnav h3 {
+		text-align: center;
+	}
 		
 }
