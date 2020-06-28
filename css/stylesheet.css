@@ -511,7 +511,7 @@ footer a {
 		margin-right: 100px;
 		margin-top: 60px;
 		border-radius: 3px;
-		height: 1900px;
+		height: 1650px;
 		flex: 0 0 200px;
 		text-align: left;
 	}
@@ -650,6 +650,30 @@ footer a {
 		text-decoration: underline;
 	}
 	.resourcesnav h3 {
+		text-align: center;
+	}
+	
+	.ranksnav {
+		border: 1px solid black;
+		margin-right: 100px;
+		margin-top: 60px;
+		border-radius: 3px;
+		height: 400px;
+		flex: 0 0 200px;
+		text-align: left;
+	}
+	.ranksnav ul {
+		list-style: none;
+
+	}
+	.ranksnav li {
+		margin-bottom: 10px;
+	}
+	.ranksnav li a {
+		color: blue;
+		text-decoration: underline;
+	}
+	.ranksnav h3 {
 		text-align: center;
 	}
 		
