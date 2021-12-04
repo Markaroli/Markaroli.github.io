@@ -58,8 +58,8 @@
 			<!-- Replace play.myserver.net with your IP address -->
 			<!-- Do it for both examples below -->
 			<!-- Please set both your IP and port -->
-			<p class="info">Join <span class="sip" data-ip="oats.crispyminers.xyz" data-port="25565">
-			0</span> other players on <span class="ip">oats.crispyminers.xyz</span></p>
+			<p class="info">Join <span class="sip" data-ip="mcl.crispyminers.xyz" data-port="25565">
+			0</span> other players on <span class="ip">mcl.crispyminers.xyz</span></p>
 			<br>
 			<a href="https://discord.gg/6XrQcWV" target="_blank"><img src="img/CrispyLogo8.png">
 			<p class="info">Join us on discord!</p></a>
@@ -93,7 +93,8 @@
 		<div class="vote">
 			<h2> <i class="fas fa-thumbs-up" style="-webkit-transform: scaleX(-1);
 				transform: scaleX(-1);"></i> VOTE FOR CRISPYMINERS  <i class="fas fa-thumbs-up"></i></h2>
-			<p>My name is markaroli and i need to edit this.</p> 
+			<p>Vote to help us grow larger and get some prizes while your at it!</p> 
+			<p><b>These links are out-dated till we get up completely! Please be patient!</b></p>
 			<br>
 			<a href="https://www.planetminecraft.com/server/crispyminers/vote/" target="_blank"><button type="button" class="btn btn-success">Planet Minecraft</button></a>
 			<a href="https://minecraft-mp.com/server/215563/vote/" target="_blank"><button type="button" class="btn btn-success">Minecraft MP</button></a>
@@ -112,15 +113,15 @@
 					</div> 
 
 					<div>
-						<h3>MrArcane</h3>
+						<h3>Arkallic</h3>
 						<div class="developer">Developer</div>
-						<a href="#myBtn"><img alt="Staff Member" src="https://mc-heads.net/body/mrarcane"></a>
+						<a href="#myBtn"><img alt="Staff Member" src="https://mc-heads.net/body/arkaliic"></a>
 					</div>
 
 					<div>
-						<h3>DarthChad</h3>
+						<h3>Sloppy_Flipper (AKA. DarthChad)</h3>
 						<div class="chadmin">Chadmin</div>
-						<img alt="Staff Member" src="https://mc-heads.net/body/DarthChad">
+						<img alt="Staff Member" src="https://mc-heads.net/body/Sloppy_Flipper">
 					</div>
 					
 					<div>
